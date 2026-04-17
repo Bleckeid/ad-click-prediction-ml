@@ -1,0 +1,19 @@
+# Данные 
+dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# Виртуальное окружение
+venv/
+env/
+.env
+
+# Системные файлы
+.DS_Store
